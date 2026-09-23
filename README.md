@@ -117,7 +117,7 @@ D    = clamp(Dff + CurrentPI(Iref - IL), 0, 0.95)
 
 环境要求：
 
-- MATLAB R2025b（已在 Update 4 验证）
+- MATLAB R2025b
 - Simulink
 - Simscape
 - Simscape Electrical
